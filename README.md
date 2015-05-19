@@ -17,7 +17,7 @@ By design, Craft won't run validation upon saving disabled entries and categorie
 #### 1.0
 * Initial public release
 
-### Disclaimer
+#### Disclaimer
 Always Validate is provided free of charge. The author is not responsible for data loss or any other problems resulting from the use of this plugin.
-Found a bug? Please report any issues on GitHub. Pull requests are very welcome!
-Please note that this is a hobby project, and no promises are made regarding response time, feature implementations or bug amendments.
+Found a bug? Please report any issues [here](https://github.com/mmikkel/AlwaysValidate-Craft/issues). **Pull requests are very welcome!**
+_Please note that this is a hobby project, and no promises are made regarding response time, feature implementations or bug amendments._
